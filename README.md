@@ -1,5 +1,4 @@
 # WaterStatus
--
 WaterStatus is a [BitBar](https://github.com/matryer/bitbar) plugin intended for rowers and paddlers in Pittsburgh that displays current flow rate and temperature of the Allegheny River, and determines the corresponding safety zone and rules for crews rowing out of [Three Rivers Rowing Association](http://threeriversrowing.org/).
 
 ### Screenshots:
