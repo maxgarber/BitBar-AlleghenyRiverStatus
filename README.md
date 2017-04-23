@@ -1,10 +1,13 @@
 # WaterStatus
-A [BitBar](https://github.com/matryer/bitbar) plugin for rowers in Pittsburgh that displays current flow rate and temperature of the Allegheny River, and determines the corresponding safety zone and rules for crews rowing out of [Three Rivers Rowing Association](http://threeriversrowing.org/)
+-
+WaterStatus is a [BitBar](https://github.com/matryer/bitbar) plugin intended for rowers and paddlers in Pittsburgh that displays current flow rate and temperature of the Allegheny River, and determines the corresponding safety zone and rules for crews rowing out of [Three Rivers Rowing Association](http://threeriversrowing.org/).
 
-### Screenshots
+### Screenshots:
+![darkmenu](./screenshots/menu.png)
 
+![expanded](./screenshots/expanded.png)
 
-#### Notes
+### Notes:
 - Temperature is retrieved from the [Acmetonia](https://waterdata.usgs.gov/usa/nwis/uv?03049640) station
 - Flow is retrieved from the [Natrona](https://waterdata.usgs.gov/usa/nwis/uv?03049500) station 
   - Boathouse has switched to using the Sharpsburg station below the dam near 62nd street, will switch or display both & prioritize Sharpsburg in next version
