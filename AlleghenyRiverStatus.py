@@ -1,10 +1,10 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
 
-#	WaterStatus
+#	AlleghenyRiverStatus
 #	a BitBar plugin for rowers & paddlers on the Allegheny river in Pittsburgh, PA
-#	v1.1 by Max Garber <max.garber+dev@gmail.com>
-#	[√] tested on 2017/05/17
+#	v1.0 by Max Garber <max.garber+dev@gmail.com>
+#	[√] tested on 2017/06/25
 
 
 #
